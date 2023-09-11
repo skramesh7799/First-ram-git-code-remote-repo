@@ -1,2 +1,0 @@
-username= ram
-pwd=ram77
